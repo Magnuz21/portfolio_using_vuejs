@@ -2,9 +2,6 @@
 
 This template should help get you started your own Portfolio
 
-## CHECK THE LINK HERE 
-https://Magnuz21.github.io/portfolio_using_vuejs/
-
 ## Project Setup
 
 ```sh
